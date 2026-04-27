@@ -25,6 +25,6 @@ Although the product names are inspired by a fictional universe (e.g., Game of T
 
 
 ### Dataset Structure
-The data follows a star schema model:
-Fact table: transactions
-Dimensions: users, products, companies, credit cards
+The data follows a star schema model.
+- Fact table: transactions
+- Dimensions: users, products, companies, credit cards
