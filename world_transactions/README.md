@@ -11,6 +11,11 @@ Although the product names are inspired by a fictional universe (e.g., Game of T
 - Understand geographic distribution of users and sales
 - Explore patterns across time (monthly and yearly trends)
 
+### Repository structure
+- KPI_world_transactions.pbix → Power BI file containing the data model, transformations, and dashboard development
+- Dashboard_world_transactions.pdf → exported version of the final dashboard
+- Informe_de_KPIs_world_transactions.pdf → written report with analysis and key insights
+
 ### Tools & Technologies
 - Power BI (data modeling & visualization)
 - DAX (measures and KPIs)
