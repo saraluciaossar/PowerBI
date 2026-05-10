@@ -1,4 +1,4 @@
-# Marketplace Sales Analysis — Power BI
+# Marketplace Sales Analysis
 
 # Project Overview
 This project analyzes sales behavior in an international marketplace between 2020 and 2024 using Power BI. The dataset includes transactions, users, products, and companies, allowing the exploration of business performance, geographic purchasing patterns, customer segmentation, and product profitability.
